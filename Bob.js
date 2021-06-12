@@ -1,6 +1,6 @@
 class Bob{
     constructor(x, y){
-
+//test
         this.body = Bodies.circle(x, y, 20);
         World.add(world, this.body);
         }
